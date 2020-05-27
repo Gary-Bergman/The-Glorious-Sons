@@ -1,0 +1,166 @@
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.navigation li {
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    padding: 5px;
+    display: inline;
+    text-align: center;
+    
+}
+
+h1 {
+    color: transparent;
+    background-image: url(https://cdn.shopify.com/s/files/1/2037/5189/collections/glorious-sons-store-header3_2.jpg?v=1578941160);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-blend-mode: darken;
+    opacity: 1;
+    border: medium solid black;
+    border-radius: 50px;
+    padding: 50px 10px;
+    margin: 20px 200px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#p1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 22px;
+    font-weight: 500;
+    border: medium solid black;
+    border-radius: 50px;
+    padding: 50px 10px;
+    margin: 20px 200px;
+}
+
+#p2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 22px;
+    font-weight: 500;
+    border: medium solid black;
+    border-radius: 50px;
+    padding: 50px 10px;
+    margin: 20px 200px;
+}
+
+table {
+    height: 40%;
+    left: 10%;
+    margin: 20px auto;
+    overflow-y: scroll;
+    position: static;
+    width: 80%;
+}
+  
+thead th {
+    background: rgba(48, 33, 16);
+    color: #FFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+  
+tr {
+    background: #f4f7f8;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+}
+  
+th, td {
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 18px;
+    text-align: center;
+    width: 33.3333%;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: medium solid black;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.music_vids {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sos {
+    margin-left: auto;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}  
+
+#sometimes {
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;  
+}
+
+.fb_ig {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#facebook {
+    vertical-align: middle;
+    align-content: center;
+    max-width: 100px;
+    height: auto;
+}
+
+#instagram {
+    vertical-align: middle;
+    align-content: center;
+    max-width: 100px;
+    height: auto;
+}
+
+  /* can delete this facebook id if I cant resize the image-link.*/
+  
+html { 
+    background: url(https://images.squarespace-cdn.com/content/v1/53e130f1e4b048ac9e9228c7/1569999538608-6KMMDM3R95MCKRHJ122D/ke17ZwdGBToddI8pDm48kGtYp8aIMxdcdbqzOmRDPaoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcqaFN_yt93TvN6Wx7tsYHmXspPnt9hhARSCpxGdO6QRsw_iqIh0oNJDM2ptBqEMJv/TGS-Union-Logo-2017+copy.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-blend-mode: darken;
+    opacity: 1;
+}
+
+/* delete all superfluose code
+    background: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/46860534_1947783778623002_7985116266585128960_o.jpg?_nc_cat=104&_nc_sid=dd9801&_nc_ohc=LFDBIMm80xEAX91s28g&_nc_ht=scontent-iad3-1.xx&oh=df68643a51cc375ef05575a7d674aa69&oe=5E9DA2C3) no-repeat center center fixed; 
+
+        Images Used:
+    https://cdn.shopify.com/s/files/1/2037/5189/collections/glorious-sons-store-header3_2.jpg?v=1578941160
+    https://images.radio.com/1077theend/TheGloriousSons.jpg
+    https://images.squarespace-cdn.com/content/v1/53e130f1e4b048ac9e9228c7/1569999538608-6KMMDM3R95MCKRHJ122D/ke17ZwdGBToddI8pDm48kGtYp8aIMxdcdbqzOmRDPaoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcqaFN_yt93TvN6Wx7tsYHmXspPnt9hhARSCpxGdO6QRsw_iqIh0oNJDM2ptBqEMJv/TGS-Union-Logo-2017+copy.png
+*/
+
